@@ -1,3 +1,6 @@
+const previewSecret = 'd4tjgjhd984jgfk0[2' // Copy the string you used for SANITY_PREVIEW_SECRET
+const projectUrl = 'http://localhost:3000'
+
 export default function resolveProductionUrl(document) {
-  return `https://laststance.io/posts/${document.slug.current}`
+  return `${projectUrl}/api/preview?secret=${previewSecret}&slug=${document.slug.current}`
 }
