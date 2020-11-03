@@ -2,7 +2,7 @@
   "name": "sanity-laststance.io",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Headless CMS for https://github.com/laststance/laststance.io",
   "author": "Ryota Murakami <dojce1048@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
