@@ -47,11 +47,6 @@ export default createSchema({
           of: [{ type: 'block' }],
         },
         {
-          name: 'excerpt',
-          title: 'Excerpt',
-          type: 'string',
-        },
-        {
           name: 'coverImage',
           title: 'Cover Image',
           type: 'image',
