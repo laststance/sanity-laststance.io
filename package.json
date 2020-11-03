@@ -3,7 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "description": "",
-  "main": "package.json",
   "author": "Ryota Murakami <dojce1048@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
