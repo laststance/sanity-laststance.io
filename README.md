@@ -1,3 +1,7 @@
+# Sanity Laststaince.io [![Depfu](https://badges.depfu.com/badges/f59847ceede44254cfbee94eb218cf6f/overview.svg)](https://depfu.com/github/laststance/sanity-laststance.io?project_id=17017)
+
+Headless CMS for https://github.com/laststance/laststance.io
+
 # Sanity Blogging Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
