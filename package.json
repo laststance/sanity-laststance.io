@@ -13,7 +13,7 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^2.0.7",
+    "@sanity/base": "^2.0.9",
     "@sanity/components": "^2.0.7",
     "@sanity/core": "^2.0.5",
     "@sanity/default-layout": "^2.0.9",
