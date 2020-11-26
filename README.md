@@ -2,6 +2,9 @@
 
 Headless CMS for https://github.com/laststance/laststance.io
 
+
+<img src="https://raw.githubusercontent.com/laststance/sanity-laststance.io/master/img.png" alt="Top Image" />
+
 # Sanity Blogging Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
