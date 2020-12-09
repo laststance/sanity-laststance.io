@@ -1122,7 +1122,7 @@
   resolved "https://registry.yarnpkg.com/@sanity/color/-/color-1.0.0.tgz#6cc44d4a8f6da4567828f52f141deed4d17aa31e"
   integrity sha512-npFZKld7K/F4vAe4SZNyx4W6R/3z5iH/CuIDFJTn6CRQbDgsrJTCPtVAF1nx76wMa3BYCTs4YFfIVkRRx2Jz9A==
 
-"@sanity/components@2.0.9", "@sanity/components@^2.0.9":
+"@sanity/components@2.0.9":
   version "2.0.9"
   resolved "https://registry.yarnpkg.com/@sanity/components/-/components-2.0.9.tgz#ce4040cd41d4d1f82b49e099b16bac2a8cbe035a"
   integrity sha512-q3wjBTWgoUXyPnpwzvlsvN+CEGAIOnceSm44Y8wf+2KI7w7Xf/Sb+xLxgHiCpzZ5VO+IFJ+bm0Nz4I3hLfySEA==
@@ -1148,6 +1148,11 @@
     react-sortable-hoc "^1.11.0"
     react-split-pane "^0.1.84"
     rxjs "^6.5.3"
+
+"@sanity/components@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@sanity/components/-/components-2.1.0.tgz#e8b4c23d3a864c32e6d4335e24068336d8659f9c"
+  integrity sha512-R2yks3xK8QvzJDvCQplJDruX3lS3ZCYABO4ZNg4X7Kxy3giQvx+XpEEHsel/MmptJtjCHQuOBdbShUUbMEj38Q==
 
 "@sanity/core@^2.1.0":
   version "2.1.0"
