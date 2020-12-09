@@ -1325,15 +1325,14 @@
     "@sanity/generate-help-url" "2.0.9"
     lodash "^4.17.15"
 
-"@sanity/default-layout@^2.0.9":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.0.9.tgz#a29ae5140d7703175833dca5a3e17888c70b030f"
-  integrity sha512-2r8ghId0bN0vQDmh256Tchq92TGVdCt2Cs6wbRRRuMnmhujw+mtYgacwlOXSekH69Li7/dCS2lTjhnjEBQ3U6Q==
+"@sanity/default-layout@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.1.0.tgz#be616e38581a4f2a940775e7ebde346b8b1d39a7"
+  integrity sha512-nRYNcocRKyYBJQq9J/SeV8VpUHUYKj8Rm0giufnUM1Z14cFsYTweZNYyQKHXPJK4rzLx+jPU3nVnZqomq/T90w==
   dependencies:
-    "@sanity/base" "2.0.9"
-    "@sanity/components" "2.0.9"
+    "@sanity/base" "2.1.0"
     "@sanity/generate-help-url" "2.0.9"
-    "@sanity/util" "2.0.9"
+    "@sanity/util" "2.1.0"
     classnames "^2.2.5"
     is-hotkey "^0.1.4"
     lodash "^4.17.15"
@@ -1832,6 +1831,24 @@
   integrity sha512-iqRQrz8YIF1eEmrt4RCdmS3Vdd5aCyTSpZp3lxfJccvCXbRx0L7k2FpAJScsrllG9C9ZJF+FsnvKw8VUgdttww==
   dependencies:
     "@types/react" "^17.0.0"
+
+"@sanity/ui@1.0.0-beta.14":
+  version "1.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-1.0.0-beta.14.tgz#d7305f541f8d7a4366f717b2701f564cdf8a7e61"
+  integrity sha512-pisaxbBxmN6AhYBoJTHV1u8+YhcoP1Z3YTMZOOMe3K+n7MaVCkZnixy4CzosLWzhLsVbIeGnJReG2gi17fmeQw==
+  dependencies:
+    "@juggle/resize-observer" "^3.2.0"
+    "@popperjs/core" "^2.5.4"
+    "@reach/auto-id" "^0.12.0"
+    "@sanity/color" "^2.0.9"
+    "@sanity/icons" "^1.0.0-beta.3"
+    color-blend "^3.0.0"
+    framer-motion "^2.9.4"
+    parse-color "^1.0.0"
+    polished "^4.0.4"
+    react-is "^17.0.1"
+    react-popper "^2.2.4"
+    react-refractor "^2.1.2"
 
 "@sanity/ui@1.0.0-beta.14":
   version "1.0.0-beta.14"
