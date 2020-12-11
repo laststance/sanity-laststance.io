@@ -1155,10 +1155,10 @@
   resolved "https://registry.yarnpkg.com/@sanity/components/-/components-2.1.0.tgz#e8b4c23d3a864c32e6d4335e24068336d8659f9c"
   integrity sha512-R2yks3xK8QvzJDvCQplJDruX3lS3ZCYABO4ZNg4X7Kxy3giQvx+XpEEHsel/MmptJtjCHQuOBdbShUUbMEj38Q==
 
-"@sanity/core@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@sanity/core/-/core-2.1.0.tgz#a58791f314cbbc9fe48236906dbbe456020ba8b1"
-  integrity sha512-lbsLA3hhET3mmnzqqy4AWBDwn3WnmMQMFxQ7+QrWxzqKTrG/qdH81pQaaHItfcRSmqQvvbLtb00WxFPV4C5UbA==
+"@sanity/core@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@sanity/core/-/core-2.1.2.tgz#33390289f6ad3acbe3d2c1796f58f0fa449857f0"
+  integrity sha512-BOHm6biJ3rp93iFBt+noAz308C4z9s84UuEhLiogl1I7RO0uJ0B0Qcy9AoejIJnrMG/vUVkIwAr8n/Ps5hyTdw==
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.10.4"
     "@babel/preset-env" "^7.11.5"
@@ -1173,7 +1173,7 @@
     "@sanity/plugin-loader" "2.1.0"
     "@sanity/resolver" "2.1.0"
     "@sanity/schema" "2.1.0"
-    "@sanity/server" "2.1.0"
+    "@sanity/server" "2.1.2"
     "@sanity/util" "2.1.0"
     "@sanity/uuid" "^3.0.1"
     "@sanity/webpack-integration" "2.1.0"
@@ -1567,10 +1567,10 @@
     lodash "^4.17.15"
     object-inspect "^1.6.0"
 
-"@sanity/server@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@sanity/server/-/server-2.1.0.tgz#b1f503d3a8475517c2d8f202031ca70e6b125d4f"
-  integrity sha512-lPp98HkTOIGly+mvnE7eQc4peloR3Ke12bWKQCxB4xnATG/VlLpGcVQIJT/rzd1vsY9qjueexsuyPWYdW7mH0A==
+"@sanity/server@2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@sanity/server/-/server-2.1.2.tgz#ab8fab2059dc26120d6a6a3146d8489ed16128d1"
+  integrity sha512-7gBSnCQUdshSiCv7DyTCPZrD7AGLdZEgm3rrWKcMsomQG2q9loUuXx4siN4bcBgNMP7i7Zmin/ny7wVMr5/L4w==
   dependencies:
     "@babel/core" "^7.11.6"
     "@babel/plugin-proposal-class-properties" "^7.10.4"
