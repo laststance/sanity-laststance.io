@@ -1055,7 +1055,7 @@
   resolved "https://registry.yarnpkg.com/@sanity/asset-utils/-/asset-utils-1.1.2.tgz#d6b4b875bee4189cb56f274a7fb5494174463cb2"
   integrity sha512-wVNhZ/W0ktlvHUzUrCuJMY9YtSls3PU+p5iQko8+P2R0HhEJfBCeTMTdqCe4BY/AfzVb4tn3/xr6XRRBKEL+AA==
 
-"@sanity/base@2.1.6", "@sanity/base@^2.1.6":
+"@sanity/base@2.1.6":
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.1.6.tgz#0cacdb33c0aa41f26abc25c4be28b4acc654dc0c"
   integrity sha512-tdCtNs3SWwf76cFyewvVqrzhZoERrigbop4e2OEssCt/mqtMo+1G36wnSx6/uwNccb3pw7QVpUWAeyHaYYt3VA==
@@ -1109,7 +1109,7 @@
     shallow-equals "^1.0.0"
     styled-components "^5.2.1"
 
-"@sanity/base@2.2.5":
+"@sanity/base@2.2.5", "@sanity/base@^2.2.5":
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.2.5.tgz#3432c53f97199177cd5e8b9a730872003e4757ac"
   integrity sha512-vVtkj7nv+FX6Kjwh89bcDioOR1S1FfpK2OuA9f2PTAN4IHD6Q4krY4yiThgub5lF4hihaIJ3aVXhq/FuGdhnqg==
