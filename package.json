@@ -20,7 +20,7 @@
     "@sanity/default-login": "^2.2.6",
     "@sanity/desk-tool": "^2.2.5",
     "@sanity/production-preview": "^2.1.4",
-    "@sanity/vision": "^2.1.4",
+    "@sanity/vision": "^2.2.6",
     "package.json": "^2.0.1",
     "prop-types": "^15.6",
     "react": "^16.9",
