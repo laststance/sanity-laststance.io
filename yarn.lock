@@ -1096,13 +1096,13 @@
   resolved "https://registry.yarnpkg.com/@sanity/asset-utils/-/asset-utils-1.1.2.tgz#d6b4b875bee4189cb56f274a7fb5494174463cb2"
   integrity sha512-wVNhZ/W0ktlvHUzUrCuJMY9YtSls3PU+p5iQko8+P2R0HhEJfBCeTMTdqCe4BY/AfzVb4tn3/xr6XRRBKEL+AA==
 
-"@sanity/base@2.6.0", "@sanity/base@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.6.0.tgz#98f2816ba8d6fd7b3d5f6c608e26eae819cb83d0"
-  integrity sha512-HT13hy07xGBnwmyezVTRZkk7FdGaJ1raZE0qq7FwtzhT7d1+4rNu2rkfY4uNrpEAnI0+BgkX5LvEikUDeNFzfQ==
+"@sanity/base@2.6.2":
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.6.2.tgz#8a48a58e24f9f0f301fdd75e1fb8a5848490fd5e"
+  integrity sha512-Wt8QDvdUwcTcNdsGtfRz9pX56j/72pMHTaHb52l9JLpA29GnUPGWq3hYDLoL12kz12Rm8eKhAN4Ffr40gtdT6g==
   dependencies:
     "@popperjs/core" "^2.5.4"
-    "@reach/auto-id" "^0.10.5"
+    "@reach/auto-id" "^0.13.2"
     "@sanity/bifur-client" "^0.0.7"
     "@sanity/client" "2.2.6"
     "@sanity/color" "^1.0.0"
@@ -1116,7 +1116,7 @@
     "@sanity/structure" "2.6.0"
     "@sanity/transaction-collator" "2.5.0"
     "@sanity/types" "2.6.0"
-    "@sanity/ui" "^0.33.6"
+    "@sanity/ui" "^0.33.9"
     "@sanity/util" "2.6.0"
     "@sanity/validation" "2.5.0"
     boundless-arrow-key-navigation "^1.1.0"
@@ -1151,13 +1151,13 @@
     shallow-equals "^1.0.0"
     styled-components "^5.2.1"
 
-"@sanity/base@2.6.2":
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.6.2.tgz#8a48a58e24f9f0f301fdd75e1fb8a5848490fd5e"
-  integrity sha512-Wt8QDvdUwcTcNdsGtfRz9pX56j/72pMHTaHb52l9JLpA29GnUPGWq3hYDLoL12kz12Rm8eKhAN4Ffr40gtdT6g==
+"@sanity/base@^2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.6.0.tgz#98f2816ba8d6fd7b3d5f6c608e26eae819cb83d0"
+  integrity sha512-HT13hy07xGBnwmyezVTRZkk7FdGaJ1raZE0qq7FwtzhT7d1+4rNu2rkfY4uNrpEAnI0+BgkX5LvEikUDeNFzfQ==
   dependencies:
     "@popperjs/core" "^2.5.4"
-    "@reach/auto-id" "^0.13.2"
+    "@reach/auto-id" "^0.10.5"
     "@sanity/bifur-client" "^0.0.7"
     "@sanity/client" "2.2.6"
     "@sanity/color" "^1.0.0"
@@ -1171,7 +1171,7 @@
     "@sanity/structure" "2.6.0"
     "@sanity/transaction-collator" "2.5.0"
     "@sanity/types" "2.6.0"
-    "@sanity/ui" "^0.33.9"
+    "@sanity/ui" "^0.33.6"
     "@sanity/util" "2.6.0"
     "@sanity/validation" "2.5.0"
     boundless-arrow-key-navigation "^1.1.0"
@@ -1354,14 +1354,15 @@
     "@sanity/generate-help-url" "2.2.6"
     lodash "^4.17.15"
 
-"@sanity/default-layout@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.6.0.tgz#2f5b7d5a54016a1b632d4dafc103aa0f4aa6838e"
-  integrity sha512-bGIHaDZzI5BJlLAJ21XMhUm3zR8vJsKURcbqOK/moDuBvbOfbrmTvnadTljV8KEubCnRFZMw446qZQqY1b6uFQ==
+"@sanity/default-layout@^2.6.2":
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.6.2.tgz#37324d9c8590979dce8fd884d2ee4ad13d208062"
+  integrity sha512-JssfFc6ME0Okn+cAg4xq+L/1Jsd1Gy3sALm9tTFTLwh3ff4Fn67RIiXVhsN1z8iiEvaaHHYJw9QwrNke0E55TQ==
   dependencies:
-    "@sanity/base" "2.6.0"
+    "@reach/auto-id" "^0.13.2"
+    "@sanity/base" "2.6.2"
     "@sanity/generate-help-url" "2.2.6"
-    "@sanity/ui" "^0.33.6"
+    "@sanity/ui" "^0.33.9"
     "@sanity/util" "2.6.0"
     classnames "^2.2.5"
     is-hotkey "^0.1.4"
