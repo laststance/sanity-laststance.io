@@ -1345,18 +1345,18 @@
     prop-types "^15.6.0"
     rxjs "^6.5.3"
 
-"@sanity/desk-tool@^2.6.3":
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/@sanity/desk-tool/-/desk-tool-2.6.3.tgz#5e21c54a392a138482cdbcbfb377d491aca637cd"
-  integrity sha512-7WFTGh018r4yjrRdprqEyTRP5Pq5oKa1xkbePlAT79xcAFvULcIGf2zOBfRTysJ7Lc6ZWQ7jpoHPoBiapnQ5pQ==
+"@sanity/desk-tool@^2.6.4":
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/@sanity/desk-tool/-/desk-tool-2.6.4.tgz#a66327f7431205fc9e329852b94609d11562b49c"
+  integrity sha512-u5I+L79X6GbBIeg1rRGGIjCq1H2qEqopDg6FqQ0ia95o8ZvPMhQ8IllgPzI6lqHc8OicMmS2VQpOHj5wpTAmKg==
   dependencies:
     "@popperjs/core" "^2.5.4"
     "@reach/auto-id" "^0.13.2"
-    "@sanity/base" "2.6.2"
+    "@sanity/base" "2.6.4"
     "@sanity/data-aspects" "2.2.6"
     "@sanity/diff" "2.2.6"
-    "@sanity/field" "2.6.2"
-    "@sanity/form-builder" "2.6.3"
+    "@sanity/field" "2.6.4"
+    "@sanity/form-builder" "2.6.4"
     "@sanity/generate-help-url" "2.2.6"
     "@sanity/mutator" "2.2.6"
     "@sanity/react-hooks" "2.6.0"
@@ -1422,13 +1422,13 @@
     simple-get "^4.0.0"
     split2 "^3.2.2"
 
-"@sanity/field@2.6.2":
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/@sanity/field/-/field-2.6.2.tgz#6fc31f19cfb01e52b27f1d6a63b4408877ff02d2"
-  integrity sha512-tDkIiqywtwjdqO5RrIdYUNk6XIoNB/47eCn3AvKfiPLbCuldZ3SiR/EvX0CQVRWUWrbZfqYIa71U6emhAgsM9g==
+"@sanity/field@2.6.4":
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/@sanity/field/-/field-2.6.4.tgz#750a3b531a00a7e58b84e1fdd139022acb329724"
+  integrity sha512-GdFpUd1OaYcuD/bg8bfX8KoclDvRwFrqgmlysaVfXgZFPKTjIdmFZgf2ZJwEk5BoQHbTGCC9+2LRL/4MOJe51Q==
   dependencies:
     "@sanity/asset-utils" "^1.1.2"
-    "@sanity/base" "2.6.2"
+    "@sanity/base" "2.6.4"
     "@sanity/diff" "2.2.6"
     "@sanity/react-hooks" "2.6.0"
     "@sanity/types" "2.6.0"
@@ -1438,13 +1438,13 @@
     sanity-diff-patch "^1.0.9"
     styled-components "^5.2.1"
 
-"@sanity/form-builder@2.6.3":
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/@sanity/form-builder/-/form-builder-2.6.3.tgz#076c94337a21967cba2717065cb80abb78456da2"
-  integrity sha512-xDbFkgXBhv19cvvJGpyZ4CAAP4LxP1QGfazmldOSFNuu8gYDoVnsb7kbjqfdXSX5x7Nu0UvnVAYzamu4OE2Uiw==
+"@sanity/form-builder@2.6.4":
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/@sanity/form-builder/-/form-builder-2.6.4.tgz#1050c0f3874d4cef7649c4634f99f9dc5d6dfe0a"
+  integrity sha512-e96YH4u0zogwZRbuF2sd+RVzhgVWpF9vy2IkWdCH0S2CZAh8fX6tjq7qYrPPtTwQDOg5aVIPh7qNSgVfuLkR1Q==
   dependencies:
     "@reach/auto-id" "^0.13.2"
-    "@sanity/base" "2.6.2"
+    "@sanity/base" "2.6.4"
     "@sanity/block-tools" "2.5.0"
     "@sanity/color" "^2.0.14"
     "@sanity/generate-help-url" "2.2.6"
