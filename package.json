@@ -18,7 +18,7 @@
     "@sanity/core": "^2.10.2",
     "@sanity/default-layout": "^2.10.2",
     "@sanity/default-login": "^2.10.5",
-    "@sanity/desk-tool": "^2.10.4",
+    "@sanity/desk-tool": "^2.10.5",
     "@sanity/production-preview": "^2.2.6",
     "@sanity/vision": "^2.10.5",
     "package.json": "^2.0.1",
