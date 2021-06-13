@@ -1359,10 +1359,10 @@
     rxjs "^6.5.3"
     styled-components "^5.2.1"
 
-"@sanity/default-login@^2.10.5":
-  version "2.10.5"
-  resolved "https://registry.yarnpkg.com/@sanity/default-login/-/default-login-2.10.5.tgz#f33cad5e59c742bad9a618d1269d8b81e661de8a"
-  integrity sha512-5vWmKIIsSVIrfJpr3BtZO7BP2EtuXpIXE+UyjAl2nSLbAGzHopY24jz29RVR9fT6PapMX+aODAi5g6pm0frcfQ==
+"@sanity/default-login@^2.11.1":
+  version "2.11.1"
+  resolved "https://registry.yarnpkg.com/@sanity/default-login/-/default-login-2.11.1.tgz#e3d4db645ad248fa755aede637d432c92a8f52d0"
+  integrity sha512-EXy3xeg/mqxpGuHKlAZoK98cCNh6HwcnowLqTD4fRvkq36fAEf8cf/STQLmttM60zAXdSg1mz+dDbHzodDaDiw==
   dependencies:
     "@sanity/generate-help-url" "2.2.6"
     prop-types "^15.6.0"
