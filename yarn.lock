@@ -1804,6 +1804,22 @@
     react-popper "^2.2.5"
     react-refractor "^2.1.4"
 
+"@sanity/ui@^0.34.3":
+  version "0.34.4"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-0.34.4.tgz#cb01ea9384c355b9ce8fd2c834424668d5769565"
+  integrity sha512-vRWBqwjzld7NvZ2Je7NtqyBO7u3yDvRzTN5L2JX1cac3+gdg2oh76QS8dn8OBe2z8GIYBQDVAR8m1EAmz90Tbw==
+  dependencies:
+    "@juggle/resize-observer" "^3.3.1"
+    "@popperjs/core" "^2.9.2"
+    "@reach/auto-id" "^0.15.0"
+    "@sanity/color" "^2.1.2"
+    "@sanity/icons" "^1.1.2"
+    framer-motion "^4.1.17"
+    popper-max-size-modifier "^0.2.0"
+    react-is "^17.0.2"
+    react-popper "^2.2.5"
+    react-refractor "^2.1.4"
+
 "@sanity/util@2.11.0":
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/@sanity/util/-/util-2.11.0.tgz#7697266a0cd2b170d7d52708a40b55fc85caec36"
@@ -1835,13 +1851,13 @@
     es6-error "^4.0.2"
     type-of-is "^3.5.1"
 
-"@sanity/vision@^2.11.0":
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-2.11.0.tgz#84b540b6fe85ab4e050189853e7229cf1c6d977e"
-  integrity sha512-T6FB4i/OlprWaVfuv12B2SF90M6Brc5FSt1i/qqq253zAxNJh19BY+kB1ZGzuegokQzB3ZBHZY0kwC0MsH39Gg==
+"@sanity/vision@^2.11.2":
+  version "2.11.2"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-2.11.2.tgz#41ae196e3c4bd4b52d2244c14d669a4a2a57cd5f"
+  integrity sha512-2xeRI5HxeEhq5yYJ49PnnjzQ+QDpOQjzWjUS5Un33yF8SwHKfJeFXofA4UzB3G3sTINGR2bJ+EG/qradTpBDFg==
   dependencies:
     "@sanity/icons" "^1.1.2"
-    "@sanity/ui" "^0.34.2"
+    "@sanity/ui" "^0.34.3"
     classnames "^2.2.5"
     codemirror "^5.47.0"
     moment "^2.19.1"
