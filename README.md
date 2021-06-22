@@ -6,6 +6,21 @@ Headless CMS for https://github.com/laststance/laststance.io
 <img src="https://raw.githubusercontent.com/laststance/sanity-laststance.io/master/img.png" alt="Top Image" />
 
 
+# Usage
+
+## `yarn install`
+
+## install sanity global
+
+```
+npm install -g @sanity/cli
+```
+
+https://www.sanity.io/docs/getting-started-with-sanity-cli
+
+## `sanity login` with github
+
+## `sanity deploy`
 
 **↓ Just putting default by scaffold README templete**  
 
