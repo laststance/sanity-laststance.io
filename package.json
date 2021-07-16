@@ -17,7 +17,7 @@
     "@sanity/components": "^2.13.0",
     "@sanity/core": "^2.12.2",
     "@sanity/default-layout": "^2.12.2",
-    "@sanity/default-login": "^2.11.1",
+    "@sanity/default-login": "^2.13.0",
     "@sanity/desk-tool": "^2.12.2",
     "@sanity/production-preview": "^2.2.6",
     "@sanity/vision": "^2.11.2",
