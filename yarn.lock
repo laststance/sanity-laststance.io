@@ -1432,18 +1432,18 @@
     "@sanity/generate-help-url" "^2.13.0"
     lodash "^4.17.15"
 
-"@sanity/default-layout@^2.13.0":
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.13.0.tgz#edd2947535590a1c1f60036b7fa2b874374dcb2f"
-  integrity sha512-8CRe1O+2zFVP85muWPG5ScCcKO68XHZK7UrDuEHVp4B8KfOQodeUAuwlmYMAzsPF80I6BogOkaRCoQCExLuA0A==
+"@sanity/default-layout@^2.13.1":
+  version "2.13.1"
+  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.13.1.tgz#2de4b4b5cc2757000728653e47523369b36f7781"
+  integrity sha512-DgriC1jgO78HIpK8XB5fUIUvqgqDZwkgjxgbY2R3SFauSaWW3/rkYUYbyYilbX+UhvnsEqNMvnGELuP/9aUFKA==
   dependencies:
     "@reach/auto-id" "^0.13.2"
-    "@sanity/base" "^2.13.0"
+    "@sanity/base" "2.13.1"
     "@sanity/client" "^2.13.0"
     "@sanity/generate-help-url" "^2.13.0"
-    "@sanity/types" "^2.13.0"
-    "@sanity/ui" "^0.34.3"
-    "@sanity/util" "^2.13.0"
+    "@sanity/types" "2.13.1"
+    "@sanity/ui" "^0.34.5"
+    "@sanity/util" "2.13.1"
     classnames "^2.2.5"
     is-hotkey "^0.1.4"
     lodash "^4.17.15"
